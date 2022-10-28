@@ -3,9 +3,6 @@ Houda Koubaa</a></h1>
 <h3 align="center">A passionate Software engineering from Tunisia  &#127481;&#127475 💖</h3>
 
 
-<br>
-<br>
-
 <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
