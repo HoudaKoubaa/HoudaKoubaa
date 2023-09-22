@@ -1,6 +1,6 @@
 <h1 align="center">Hi There<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm <a href="" target="blank">
 Houda Koubaa</a></h1>
-<h3 align="center">A passionate Software engineering from Tunisia  &#127481;&#127475 💖</h3>
+<h3 align="center">A passionate Software engineering from Tunisia  &#127481; 💖</h3>
 
 
 <a target="_blank" align="center">
